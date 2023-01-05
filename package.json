@@ -1,0 +1,30 @@
+{
+  "name": "raspberry-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAlmarza98/raspberry-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAlmarza98/raspberry-scraper/issues"
+  },
+  "homepage": "https://github.com/JAlmarza98/raspberry-scraper#readme",
+  "devDependencies": {
+    "playwright": "^1.29.1",
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.29.1"
+  }
+}
